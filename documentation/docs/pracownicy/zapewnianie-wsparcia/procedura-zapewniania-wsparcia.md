@@ -28,15 +28,15 @@ wersja_robocza: true
 
 - **Opracuj procedurę** przy współudziale osób odpowiedzialnych za
   dostępność w organizacji (np. Koordynator dostępności) oraz osób z
-  niepełnosprawnościami (pracowników/ współpracowników lub
-  reprezentatywną grupę dla tego środowiska, np. NGO, Społeczna Rada ds.
+  niepełnosprawnościami (pracowników / współpracowników lub
+  reprezentatywnej grupy dla tego środowiska, np. NGO, Społeczna Rada ds.
   Osób z niepełnosprawnościami).
 
-- **Zapewnij dostępności cyfrowej** dokumentu procedury.
+- **Zapewnij dostępność cyfrową** dokumentu procedury.
 
-- **Opublikuj przyjętej procedury** na ogólnodostępnej stronie
+- **Opublikuj przyjętą procedurę** na ogólnodostępnej stronie
   internetowej organizacji, w BIP -- Oferty pracy oraz w dokumentacji
-  wewnętrznych, np. w Intranecie, w sekcji "niezbędnik pracownika".
+  wewnętrznej, np. w Intranecie, w sekcji "niezbędnik pracownika".
 
 ## Rekomendacje 
 
@@ -51,14 +51,14 @@ W treści procedury uwzględnij:
   ewentualnych alternatywnych rozwiązań, jeśli zapewnienie wsparcia we
   wnioskowanej formie nie jest możliwe;
 - wskazanie procedury odwoławczej;
-- wskazanie osoby/ jednostki rozpatrującej wnioski. Jeśli to możliwe,
+- wskazanie osoby lub jednostki rozpatrującej wnioski. Jeśli to możliwe,
   włącz w ten proces osoby z niepełnosprawnościami;
 - konieczność uzasadnienia odmowy pozytywnego załatwienia sprawy;
 - w przypadku osób nowozatrudnionych, warto przewidzieć możliwość
   złożenia wniosku już w procesie rekrutacyjnym lub tuż po jego
   zakończeniu, ale przed dniem rozpoczęcia pracy, tak aby podjąć
   niezbędne ustalenia i zapewnić czas na wdrożenie koniecznych zmian,
-  dokonanie zakupów, zabezpieczenie środków itp;
+  zakupy, zabezpieczenie środków itp;
 - uregulowanie kwestii odpowiedzialności za powierzony sprzęt,
   oprogramowanie i inne mienie oraz ich ubezpieczenia. Dopuszczenie i
   ustalenie zasad korzystania w pracy z zasobów rzeczowych pracownika
