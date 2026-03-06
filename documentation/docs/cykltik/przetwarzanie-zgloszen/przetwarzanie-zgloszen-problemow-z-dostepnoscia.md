@@ -35,13 +35,13 @@ status: projekt
 
 ## 1. Cel zalecenia
 
-Celem niniejszego zalecenia jest ustalenie ram postępowania w przypadku zgłoszeń dotyczących problemów z dostępnością cyfrową, w tym ich identyfikacji, rejestracji, analizy oraz dostarczenie wskazówek i rekomendacji dotyczących rozwiązywania tych problemów, niezależnie od tego, czy zostały one zgłoszone przez użytkowników, czy wykryte w ramach monitoringu, przeglądów okresowych, audytów lub testów.
+Zalecenie określa zasady postępowania w sprawie zgłoszeń problemów z dostępnością cyfrową. Opisuje, jak rozpoznawać takie zgłoszenia, jak je rejestrować i analizować. Daje też konkretne wskazówki i rekomendacje, jak rozwiązywać te problemy. Dotyczy zarówno zgłoszeń od użytkowników, jak i problemów wykrytych w monitoringu, przeglądach okresowych, audytach i testach.
 
 ---
 
 ## 2. Zalecenie
 
-Podmioty publiczne zobowiązane są do systematycznego identyfikowania, rejestrowania, analizowania i rozwiązywania problemów z dostępnością cyfrową, zapewniając wprowadzanie poprawek, informowanie o postępach oraz wykorzystanie zebranych danych do planowania działań naprawczych i rozwoju dostępności.
+Podmioty publiczne zobowiązane są do systematycznego identyfikowania, rejestrowania, analizowania i rozwiązywania problemów z dostępnością cyfrową. Powinny też wprowadzać poprawki, informować o postępach prac oraz wykorzystywać zebrane dane do planowania dalszych działań naprawczych i rozwoju dostępności.
 
 ---
 
@@ -49,67 +49,72 @@ Podmioty publiczne zobowiązane są do systematycznego identyfikowania, rejestro
 
 ### 3.1. Organizacja procesu
 
-1. Opracować wewnętrzną procedurę przetwarzania problemów z dostępnością, obejmującą:
-   - przyjmowanie zgłoszeń od użytkowników (formularz, e-mail, telefon, komunikator internetowy),
-   - rejestrowanie problemów wykrytych podczas przeglądów, testów, monitoringu i audytów,
-   - kategoryzację zgłoszeń w sposób umożliwiający łatwą identyfikację i priorytetyzację problemów,
-   - rozwiązywanie problemów w możliwie najkrótszym czasie, nie dłużej niż 2 miesiące od daty zgłoszenia.
-   - automatyczne powiadamianie o status załatwiania sprawy.
-2. Utworzyć **rejestr problemów z dostępnością cyfrową**, wspólny dla zgłoszeń użytkowników i ustaleń z monitoringu, zawierający m.in.: datę, opis bariery, źródło wykrycia, status, osobę odpowiedzialną i planowany termin rozwiązania.
-3. Przekazać obowiązki związane z koordynacją procesu przetwarzania problemów z dostępnością osobie lub podmiotowi odpowiedzialnemu za cyfrową dostępność, która będzie nadzorować obieg informacji aktualizować deklarację dostępności i monitorować realizację działań naprawczych.
+1. Trzeba opracować prostą, wewnętrzną procedurę postępowania z problemami z dostępnością cyfrową. Procedura powinna opisywać:
+   - jak przyjmujemy zgłoszenia od użytkowników (np. przez formularz, e‑mail, telefon, komunikator internetowy),
+   - jak rejestrujemy problemy wykryte w przeglądach, testach, monitoringu i audytach,
+   - jak dzielimy zgłoszenia na kategorie, aby łatwo je zidentyfikować i nadać im priorytety,
+   - w jakim czasie rozwiązujemy problemy – co do zasady jak najszybciej, nie później niż w ciągu 2 miesięcy od zgłoszenia,
+   - jak automatycznie poinformujemy użytkownika o tym, na jakim etapie jest jego sprawa.
+2. Należy utworzyć **rejestr problemów z dostępnością cyfrową**. Wspólny dla zgłoszeń użytkowników i problemów wykrytych w monitoringu. W rejestrze powinny znaleźć się co najmniej: data zgłoszenia, opis bariery, źródło wykrycia, status sprawy, osoba odpowiedzialna i planowany termin rozwiązania.
+3. Trzeba wyznaczyć osobę lub komórkę, która będzie koordynować cały proces postępowania z problemami z dostępnością cyfrową. Osoba ta będzie nadzorować obieg informacji, dbać o aktualizację deklaracji dostępności i sprawdzać, czy działania naprawcze są wykonywane.
 
 ---
 
 ### 3.2. Inwentaryzacja i raportowanie
 
-1. Wszystkie zgłoszenia i wyniki przeglądów włączać do **inwentaryzacji barier**, prowadzonej zgodnie z wymogami art. 9 ustawy o dostępności cyfrowej.
-2. **Co 6 miesięcy** przygotowywać raport zbiorczy obejmujący:
-   - liczbę i rodzaj problemów,
-   - źródła ich wykrycia (użytkownicy, testy, audyty, monitoring),
-   - status działań naprawczych i powtarzalność błędów.
-3. Wyniki raportów uwzględniać w **planie działań naprawczych** i **deklaracji dostępności**, a także wykorzystywać przy planowaniu szkoleń, przeglądów technicznych i innych działań mających na celu poprawę dostępności cyfrowej.
-
+1. Wszystkie zgłoszenia i wyniki przeglądów trzeba włączać do **inwentaryzacji barier**, prowadzonej zgodnie z art. 9 ustawy o dostępności cyfrowej.
+2. **Co 6 miesięcy** należy przygotowywać raport zbiorczy, który pokaże:
+   - ile problemów wykryto i jakiego są rodzaju,
+   - skąd pochodzą (zgłoszenia użytkowników, testy, audyty, monitoring),
+   - na jakim etapie są działania naprawcze i które błędy się powtarzają.
+3. Wyniki raportów trzeba uwzględniać w **planie działań naprawczych** i **deklaracji dostępności**. Warto wykorzystywać te dane przy planowaniu szkoleń, przeglądów technicznych i innych działań, które mają poprawić dostępność cyfrową.
 ---
 
 ### 3.3. Monitorowanie skuteczności
 
 Monitorowanie skuteczności procesu przetwarzania problemów z dostępnością jest kluczowe dla oceny efektywności wdrożonych procedur i działań naprawczych. Celem monitorowania jest:
 
-- ocena skuteczności procesu w rozwiązywaniu problemów z dostępnością,
-- identyfikacja obszarów wymagających poprawy,
-- zapewnienie ciągłego doskonalenia procesu.
+- sprawdzenie, czy faktycznie usuwamy zgłoszone problemy z dostępnością,
+- wskazanie obszarów, w których nadal są braki i trzeba coś poprawić,
+- stałe ulepszanie całego procesu postępowania z problemami dostępności cyfrowej.
 
-Do oceny skuteczności procesu przetwarzania problemów z dostępnością można wykorzystać następujące wskaźniki:
+Do oceny skuteczności procesu przetwarzania problemów z dostępnością można użyć takich wskaźników:
 
-| Wskaźnik                                                           | Cel                         | Częstotliwość |
-| ------------------------------------------------------------------ | --------------------------- | ------------- |
-| Czas potwierdzenia odbioru zgłoszenia                              | ≤ 3 dni robocze             | miesięcznie   |
-| Czas zamknięcia sprawy                                             | ≤ 30 dni (dla ≥ 80 % spraw) | kwartalnie    |
-| Odsetek problemów ujętych w inwentaryzacji                         | 100 %                       | kwartalnie    |
-| Powtarzające się problemy                                          | < 10 % rocznie              | rocznie       |
-| Dynamika wzrostu problemów wykrytych w przeglądach | wzrost rok do roku          | rocznie       |
+| Wskaźnik                                                           | Cel                                   | Częstotliwość |
+| ------------------------------------------------------------------ | ------------------------------------- | ------------- |
+| Czas potwierdzenia odbioru zgłoszenia                              | do trzech dni roboczych               | miesięcznie   |
+| Czas zamknięcia sprawy                                             | do 30 dni (dla conajmniej 80 % spraw) | kwartalnie    |
+| Odsetek problemów ujętych w inwentaryzacji                         | 100 %                                 | kwartalnie    |
+| Powtarzające się problemy                                          | mniej niż 10 % rocznie                | rocznie       |
+| Dynamika wzrostu problemów wykrytych w przeglądach                 | oczekiwany wzrost rok do roku         | rocznie       |
 
+**Jak czytać wskaźniki**
+Wskaźniki pokazują, czy instytucja sprawnie reaguje na problemy z dostępnością i czy potrafi je skutecznie usuwać, a nie tylko rejestrować.
+-  Czas potwierdzenia zgłoszenia i czas zamknięcia sprawy pokazują, czy  użytkownicy dostają szybką reakcję i realną pomoc.
+-  Odsetek problemów wpisanych do inwentaryzacji mówi, czy żadne zgłoszenie „nie ginie po drodze” i czy mamy pełny obraz barier.
+-  Udział problemów, które się powtarzają, pokazuje, czy wyciągamy wnioski i usuwamy przyczyny błędów, a nie tylko ich skutki.
+-  Wzrost liczby problemów wykrytych w przeglądach oznacza, że lepiej monitorujemy dostępność i szybciej wyłapujemy bariery, zanim zgłoszą je użytkownicy.
 ---
 
 ### 3.4. Proces naprawczy
 
 1. **Identyfikacja typu problemu**, aby można było określić do kogo skierować dany problem.
-2. **Nadać określony status**, który będzie identyfikował postęp załatwiania sprawy.
-3. **Po rozwiązaniu problemu** przeprowadzić testy dostępności (automatyczne i manualne, jeśli przypadek tego wymaga).
-4. Jeżeli bariera nie może zostać usunięta z przyczyn technicznych lub finansowych, należy:
-   - udokumentować przyczyny wyłączenia załączając podstawę prawną (art. 8 ustawy),
-   - zapewnić **alternatywny sposób dostępu** (np. wersja tekstowa, kontakt telefoniczny, pomoc asystenta).
+2. **Nadać określony status**, który jasno pokaże postęp załatwiania sprawy (np. nowe, w toku, oczekuje na decyzję, zamknięte).
+3. **Po rozwiązaniu problemu** trzeba ponownie sprawdzić dostępność przy pomocy testów automatycznych i manualnych (jeśli przypadek tego wymaga).
+4. Jeżeli nie można usunąć bariery z przyczyn technicznych lub finansowych, należy:
+   - udokumentować przyczyny wyłączenia, opisać powody takiej decyzji i powołać się na art. 8 ustawy o dostępności cyfrowej,
+   - zapewnić **alternatywny sposób dostępu** (np. wersję tekstową, kontakt telefoniczny, pomoc asystenta).
 
 ---
 
 ## 4. Uzasadnienie
 
 
-Przetwarzanie problemów z dostępnością oraz prowadzenie procesu naprawczego stanowi element należytej staranności w zapewnianiu dostępności cyfrowej, wynikający z art. 8 i 9 ustawy o dostępności cyfrowej.
+Przetwarzanie problemów z dostępnością cyfrową oraz prowadzenie procesu naprawczego to element należytej staranności w zapewnianiu dostępności cyfrowej, który wynika z art. 8 i 9 ustawy o dostępności cyfrowej.
 
-Systematyczne rozwiązywanie problemów z dostępnością nie tylko zapewnia zgodność z przepisami, ale także podnosi zasób wiedzy organizacji, umożliwiając stałe doskonalenie procesów i produktów, co przyczynia się do poprawy jakości i dostępności cyfrowej.
+Systematyczne rozwiązywanie problemów z dostępnością cyfrową zapewnia zgodność z przepisami i podnosi zasób wiedzy organizacji. Umożliwia to stałe doskonalenie procesów i produktów, co przyczynia się do poprawy jakości i dostępności cyfrowej.
 
-Połączenie zgłoszeń użytkowników z wynikami monitoringu, audytów i przeglądów umożliwia całościowe zarządzanie dostępnością, zwiększa efektywność działań naprawczych oraz ogranicza ryzyko wystąpienia skarg i postępowań administracyjnych.
+Łączenie zgłoszeń od użytkowników z ustaleniami z monitoringu, audytów i przeglądów daje pełniejszy obraz sytuacji. Umożliwia całościowe zarządzanie dostępnością, zwiększa efektywność i planowanie działań naprawczych. Zmniejsza również ryzyko żądań, skarg czy postępowań administracyjnych.
 
 ---
 
@@ -125,7 +130,7 @@ Połączenie zgłoszeń użytkowników z wynikami monitoringu, audytów i przegl
 
 | Sytuacja                    | Treść (uproszczona)                                                                                                                                                   |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Poprawka wprowadzona        | "Dziękujemy za zgłoszenie. Alternatywny opis został już dodany. Prosimy o sprawdzenie i ewentualne kolejne uwagi."                                                    |
-| Wyłączenie prawne           | "Zgodnie z art. 8 ustawy o dostępności cyfrowej, [nazwa dokumentu/systemu/ np. dokument archiwalny] nie podlega obowiązkowi dostępności. Oferujemy alternatywny sposób dostępu. Prosimy o kontakt." |
-| W planie rozwoju            | "Zgłoszenie zostało przyjęte. Zapisaliśmy je w naszym planie prac. Poinformujemy o gotowym rozwiązaniu."                                            |
-| Brak możliwości technicznej | "Po analizie okazało się, że obecna architektura systemu nie pozwala na wprowadzenie zmiany. Szukamy alternatywnego rozwiązania. Powiadomimy, gdy się pojawi."        |
+| Poprawka wprowadzona        | "Dziękujemy za zgłoszenie. Opis alternatywny został już dodany. Prosimy o sprawdzenie i ewentualne kolejne uwagi."                                                    |
+| Wyłączenie prawne           | "Dziękujemy za zgłoszenie. Zgodnie z art. 8 ustawy o dostępności cyfrowej, [nazwa dokumentu/systemu/ np. dokument archiwalny] nie podlega obowiązkowi dostępności. Oferujemy alternatywny sposób dostępu. Prosimy o kontakt." |
+| W planie rozwoju            | "Dziękujemy, zgłoszenie zostało przyjęte. Zapisaliśmy je w naszym planie prac. Poinformujemy, gdy rozwiązanie będzie gotowe."                                            |
+| Brak możliwości technicznej | "Dziękujemy za zgłoszenie. Po analizie okazało się, że obecny system nie pozwala na wprowadzenie tej zmiany. Szukamy alternatywnego rozwiązania. Damy znać, gdy je znajdziemy."        |
