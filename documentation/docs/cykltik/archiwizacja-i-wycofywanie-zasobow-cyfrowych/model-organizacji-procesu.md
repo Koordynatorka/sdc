@@ -37,7 +37,8 @@ Status zasobu powinien być prosty, zrozumiały i możliwy do odnotowania w doku
 - archiwalny,
 - do migracji,
 - wycofany z publikacji,
-- przekazany albo przeznaczony do brakowania zgodnie z właściwymi przepisami.
+- przekazany albo przeznaczony do brakowania zgodnie z właściwymi przepisami,
+- zastąpiony.
 
 Status nie przesądza samodzielnie o kwalifikacji archiwalnej. Jest narzędziem organizacyjnym, które pomaga ustalić dalszy tryb postępowania z zasobem.
 
