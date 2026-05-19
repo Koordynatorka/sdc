@@ -170,7 +170,8 @@ Najczęściej wystarczające są statusy:
 - migrowany,
 - wycofywany,
 - wycofany,
-- do przeglądu.
+- do przeglądu,
+- zastąpiony.
 
 ---
 
@@ -189,7 +190,7 @@ W praktyce często wystarcza:
 
 ### 5. Oznaczanie treści archiwalnych
 
-Użytkownik powinien móc rozpoznać, że korzysta z materiału historycznego.
+Użytkownik powinien móc rozpoznać, że korzysta z materiału historycznego. Oznaczenie powinno być zrozumiałe, widoczne przy treści i dostępne dla osób, które korzystają z technologii wspomagających.
 
 W praktyce często wystarczają:
 
@@ -316,8 +317,7 @@ W praktyce oznacza to między innymi:
 
 ## Dostęp alternatywny — praktyczne podejście
 
-Dostęp alternatywny nie powinien być traktowany jako:
-- „usprawiedliwienie” dla pozostawiania niedostępnych zasobów.
+Dostęp alternatywny nie powinien być traktowany jako „usprawiedliwienie” dla pozostawiania niedostępnych zasobów. Powinien być proporcjonalny do znaczenia zasobu, ryzyka ograniczenia dostępu do informacji oraz dostępnych zasobów.
 
 Jego celem jest:
 
@@ -444,13 +444,13 @@ W pierwszej kolejności należy:
 
 ### Statusy tymczasowe
 
-W sytuacjach wymagających dalszej analizy organizacja może stosować statusy takie jak:
+W sytuacjach, które wymagają dalszej analizy organizacja może stosować statusy takie jak:
 
 - do przeglądu,
-- wymagający uzupełnienia metadanych,
+- wymaga uzupełnienia metadanych,
 - niedostępny technicznie,
-- wymagający migracji,
-- wymagający dostępu alternatywnego.
+- wymaga migracji,
+- wymaga dostępu alternatywnego.
 
 ---
 
