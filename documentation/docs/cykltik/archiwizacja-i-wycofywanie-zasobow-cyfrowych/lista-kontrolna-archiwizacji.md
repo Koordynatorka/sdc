@@ -28,3 +28,4 @@ Lista ma charakter przykładowy i może być dostosowana do procedur podmiotu.
 | Czy udokumentowano decyzję? |  |  |  |
 | Czy określono sposób dalszego dostępu? |  |  |  |
 | Czy zabezpieczono oryginał lub wersję referencyjną, jeżeli jest wymagana? |  |  |  |
+| Czy zidentyfikowano powiązania zasobu (np. z innymi dokumentami, wersjami, systemem źródłowym)? |  |  |  |
